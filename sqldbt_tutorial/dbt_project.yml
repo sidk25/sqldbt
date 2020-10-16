@@ -33,6 +33,12 @@ clean-targets:         # directories to be removed by `dbt clean`
 # using the `{{ config(...) }}` macro.
 models:
   sqldbt_tutorial:
-      # Applies to all files under models/example/
-      example:
-          materialized: view
+        confidential:
+            table:
+                materialized: table
+                schema: confidential
+        staging:
+            table:
+                materialized: table
+                schema: staging
+        
