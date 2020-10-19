@@ -1,0 +1,14 @@
+{​​​​​​​
+    "folders": [
+        {​​​​​​​
+            "path": "C:\\Users\\sidk\\Documents\\sqldbt_proj\\sqldbt"
+        },​​​​​​​
+        {
+            "path": "C:\\Users\\sidk\\.dbt"
+        },​​​​​​​
+        {
+            "path": "C:\\Users\\sidk\\Documents\\sqldbt_proj\\sqlserver"
+        }
+    ],
+    "settings": {​​​​​​​ "terminal.integrated.shell.windows": "C:\\windows\\System32\\cmd.exe"}​​​​​​​
+}​​​​​​​
